@@ -66,5 +66,4 @@ This project follows Python PEP 8 style guidelines. Consider using tools like:
 4. Update documentation as needed
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
